@@ -1,5 +1,22 @@
 # 💫 About Me:
-💻 Full Stack Developer<br>🚀 Building practical software and AI-powered solutions<br><br><br>## About Me<br>- 🔭 Working on personal and open-source projects<br>- 🌱 Learning backend architecture and cloud deployment<br>- 🤖 Interested in AI, automation, cybersecurity, and embedded systems<br>- 💡 I enjoy solving real-world problems through software<br><br>## Tech Stack<br>Python • JavaScript • HTML • CSS • Node.js • Express<br>PostgreSQL • Git • GitHub • Render • Railway<br><br>## Featured Projects<br>Step English AI Platform<br>Personal Portfolio Website<br>AI Daily Planner<br>School Management System<br>Digital Library System<br>CPR Demonstration Machine<br>Private Cloud Storage Server<br>Ocean Surface Cleaning Boat
+💻 Full Stack Developer <br>
+🚀 Building practical software and AI-powered solutions
+<br> <br> <br>
+About Me <br>
+- 🔭 Working on personal and open-source projects <br>
+- 🌱 Learning backend architecture and cloud deployment <br>
+- 🤖 Interested in AI, automation, cybersecurity, and embedded systems<br>
+- 💡 I enjoy solving real-world problems through software
+<br><br>
+Featured Projects <br>
+Step English AI Platform<br>
+Personal Portfolio Website<br>
+AI Daily Planner<br>
+School Management System<br>
+Digital Library System<br>
+CPR Demonstration Machine<br>
+Private Cloud Storage Server<br>
+Ocean Surface Cleaning Boat
 
 
 # 💻 Tech Stack:
