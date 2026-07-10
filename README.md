@@ -2,13 +2,13 @@
 💻 Full Stack Developer <br>
 🚀 Building practical software and AI-powered solutions
 <br> <br> <br>
-About Me <br>
+<h2>About Me</h2> <br>
 - 🔭 Working on personal and open-source projects <br>
 - 🌱 Learning backend architecture and cloud deployment <br>
 - 🤖 Interested in AI, automation, cybersecurity, and embedded systems<br>
 - 💡 I enjoy solving real-world problems through software
 <br><br>
-Featured Projects <br>
+<h2>Featured Projects</h2> <br>
 Step English AI Platform<br>
 Personal Portfolio Website<br>
 AI Daily Planner<br>
