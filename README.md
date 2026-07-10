@@ -7,14 +7,14 @@
 💡 I enjoy solving real-world problems through software
 <br><br>
 <h2>Featured Projects</h2> <br>
-Step English AI Platform<br>
-Personal Portfolio Website<br>
-AI Daily Planner<br>
-School Management System<br>
-Digital Library System<br>
-CPR Demonstration Machine<br>
-Private Cloud Storage Server<br>
-Ocean Surface Cleaning Boat
+• Step English AI Platform<br>
+• Personal Portfolio Website<br>
+• AI Daily Planner<br>
+• School Management System<br>
+• Digital Library System<br>
+• CPR Demonstration Machine<br>
+• Private Cloud Storage Server<br>
+• Ocean Surface Cleaning Boat
 
 
 # 💻 Tech Stack:
