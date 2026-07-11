@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 Full Stack Developer <br>
-🚀 Building practical software and AI-powered solutions
+🚀 Building practical software and AI-powered solutions <br>
 🔭 Working on personal and open-source projects <br>
 🌱 Learning backend architecture and cloud deployment <br>
 🤖 Interested in AI, automation, cybersecurity, and embedded systems<br>
